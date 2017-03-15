@@ -1,0 +1,8 @@
+C:\MyRepo\Demo\Debugging\Trial1\bin\Debug\Trial1.exe.config
+C:\MyRepo\Demo\Debugging\Trial1\bin\Debug\Trial1.exe
+C:\MyRepo\Demo\Debugging\Trial1\bin\Debug\Trial1.pdb
+C:\MyRepo\Demo\Debugging\Trial1\bin\Debug\Newtonsoft.Json.dll
+C:\MyRepo\Demo\Debugging\Trial1\bin\Debug\Newtonsoft.Json.xml
+C:\MyRepo\Demo\Debugging\Trial1\obj\Debug\Trial1.csprojResolveAssemblyReference.cache
+C:\MyRepo\Demo\Debugging\Trial1\obj\Debug\Trial1.exe
+C:\MyRepo\Demo\Debugging\Trial1\obj\Debug\Trial1.pdb

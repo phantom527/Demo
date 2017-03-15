@@ -1,0 +1,6 @@
+C:\MyRepo\Demo\Debugging\Trial3\bin\Debug\Trial3.exe.config
+C:\MyRepo\Demo\Debugging\Trial3\bin\Debug\Trial3.exe
+C:\MyRepo\Demo\Debugging\Trial3\bin\Debug\Trial3.pdb
+C:\MyRepo\Demo\Debugging\Trial3\obj\Debug\Trial3.csprojResolveAssemblyReference.cache
+C:\MyRepo\Demo\Debugging\Trial3\obj\Debug\Trial3.exe
+C:\MyRepo\Demo\Debugging\Trial3\obj\Debug\Trial3.pdb
